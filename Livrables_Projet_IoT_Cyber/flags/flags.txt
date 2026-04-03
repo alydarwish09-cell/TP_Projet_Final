@@ -1,0 +1,5 @@
+FLAG{binwalk_extracted_config}
+FLAG{apk_hardcoded_key}
+FLAG{mqtt_no_auth}
+FLAG{luci_default_creds}
+FLAG{cloud_api_broken_access}
